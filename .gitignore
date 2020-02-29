@@ -36,3 +36,6 @@ gradle.properties
 .vscode
 
 *.log
+
+.classpath
+.project
